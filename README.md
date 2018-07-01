@@ -1,6 +1,6 @@
 # Journal App
 
-![](https://shycoder.com/wp-content/uploads/2018/07/journalapp-screenshot-2.png)
+![](https://shycoder.com/wp-content/uploads/2018/07/journalapp-screenshot-new-1.png)
 
 Journal App is Andela Learning Community (ALC) **#7DaysofCodeChallenge** project. A project aimed to determine a learner's overall progress in the ALC program, and identify the top 100 learners from the Android Developer learning track. To test the skills learned by learners and certify the top learners at the end of the program.
 
