@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="my_app_name">My Journal App</string>
+    <string name="email_hint">Your Email</string>
+    <string name="password_hint">Your Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="text_or">OR</string>
+    <string name="google_signin">Sign in With Google</string>
+    <string name="text_no_account">Not having an account yet?</string>
+    <string name="text_register">Register</string>
+    <string name="google_signup">Sign Up With Google</string>
+    <string name="text_add_entry">Done</string>
+    <string name="text_already_register">Already registered?</string>
+    <string name="edit_entry">Edit Entry</string>
+    <string name="delete_entry">Delete Entry</string>
+    <string name="log_out">Log Out</string>
+    <string name="add_entry_hint">Start typing here..</string>
+    <string name="user_email">User Email:</string>
+</resources>
