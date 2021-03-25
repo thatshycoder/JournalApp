@@ -18,7 +18,7 @@ The project was written in Java and compiled with Gradle.
 
 # Authors
 
-- **Doyin Faith Kasumu**
+- **Ade Kasumu**
 
 # License
 
